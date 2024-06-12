@@ -1,4 +1,4 @@
-# Maia-Translate
+# Maia-Translator
 Tradutor feito em Python3 + Customtkinter + ApiGoogle
 
 # Executar o projeto:
