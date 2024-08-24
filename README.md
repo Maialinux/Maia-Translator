@@ -1,6 +1,10 @@
 # Maia-Translator
 <b> Tradutor feito em Python3 + Customtkinter + ApiGoogle
 
+<hr>
+
+<img src="icones/maia_tradutor.png"/>
+
 # Executar o projeto:
 <b> Baixe o projeto, depois entre na sua pasta
 
@@ -20,7 +24,15 @@
 
     python main.py
 
-# Imagem do programa:
+# Imagem do programa
 
-![maia_translate](https://github.com/Maialinux/Maia-Translate/assets/133462458/34f75021-262d-40fd-a16a-2c6a4310b4a7)
+### Traduzindo texto
+
+<img src="imagens/idioma_origem.jpg"/>
+
+<br>
+
+### Texto traduzido
+
+<img src="imagens/idioma_destino.jpg"/>
 
