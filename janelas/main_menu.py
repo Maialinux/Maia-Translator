@@ -53,12 +53,12 @@ class Main_Menu():
             self.lista_de_languages_destinos.append(idioma)
         
         # DEFININDO APARÊNCIA
-        with open(file="settings/appearance/default.json",mode="r") as file:
+        with open(file="settings/appearance/default_appearance.json",mode="r") as file:
             arquivoAparencia = file.read()
             dic_lista_de_aparencia=json.loads(arquivoAparencia)
         
         # DEFININDO TEMA PADRÃO
-        with open(file="settings/themes/default.json",mode="r") as file:
+        with open(file="settings/themes/default_theme.json",mode="r") as file:
             arquivoTema = file.read()
             dic_lista_de_temas=json.loads(arquivoTema)
         
