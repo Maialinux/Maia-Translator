@@ -36,3 +36,28 @@
 
 <img src="imagens/idioma_destino.jpg"/>
 
+# Tornar o programa um executável
+
+<hr>
+
+<b> Depois de tudo instale o módulo pyinstaller:
+
+    pip install pyinstaller
+
+<b> Execute o arquivo  com o pyinstaller: 
+
+    pyinstaller maia-translator.spec
+
+<b> Depois disso criará duas pastas chamadas build e dist. Copie para dentro da pasta dist/ a pasta icones e a pasta settings.<br> Siga o comando abaixo:
+
+    cp -rfv icones dist/
+
+<b>
+    
+    cp -rfv settings dist/
+
+<b> Depois forneça permissão ao executável que já está dentro da pasta dist
+
+<b> Depois disto, é só executar o programa dando duplo clique ou pelo terminal com o seguinte comando por exemplo:
+
+    ./maia-translator
