@@ -118,6 +118,8 @@ class Main_Menu():
         self.janela = ctk.CTk()
         self.janela.title("Maia Translator")
         self.janela.geometry("800x550")
+        self.favicon = PhotoImage(file="icones/maia_tradutor_64x64_2.png")
+        self.janela.iconphoto(True, self.favicon)
         # DESCREVE O TITULO 
         lblTitulo = ctk.CTkLabel(self.janela,text="Maia Translator", font=("Arial",24))
         lblTitulo.place(relwidth=1, rely=0.02)

@@ -8,4 +8,6 @@ idna==3.6
 packaging==24.0
 requests==2.31.0
 soupsieve==2.5
+style==1.1.0
+update==0.0.1
 urllib3==2.2.1
