@@ -58,6 +58,6 @@
 
 <b> Depois forneça permissão ao executável que já está dentro da pasta dist
 
-<b> Depois disto, é só executar o programa dando duplo clique ou pelo terminal com o seguinte comando por exemplo:
+<b> Depois disto, entre dentro da pasta dist, e então, é só executar o programa dando duplo clique ou pelo terminal com o seguinte comando por exemplo:
 
     ./maia-translator
