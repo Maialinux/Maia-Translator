@@ -28,13 +28,13 @@
 
 ### Traduzindo texto
 
-<img src="imagens/idioma_origem.jpg.png"/>
+<img src="imagens/idioma_origem.jpg"/>
 
 <br>
 
 ### Texto traduzido
 
-<img src="imagens/idioma_destino.jpg.png"/>
+<img src="imagens/idioma_destino.jpg"/>
 
 # Tornar o programa um executável
 
