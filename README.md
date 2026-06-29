@@ -44,6 +44,9 @@
 
     pip install pyinstaller
 
+<b> Criação oficial do executável:
+    pyinstaller.exe -w main.py --add-data "icones:icones" --add-data "janelas:janelas" --name "Maia-Translator"  --icon "./icones/maia_tradutor.ico" --onefile
+
 <b> Execute o arquivo  com o pyinstaller: 
 
     pyinstaller maia-translator.spec
